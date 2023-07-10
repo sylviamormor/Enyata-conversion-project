@@ -355,7 +355,7 @@ main {
   .navigation {
     display: flex;
     justify-content: space-between;
-    gap: 480px;
+    gap: 380px;
     align-items: center;
   }
 
@@ -406,7 +406,7 @@ main {
     flex-direction: row;
   }
 
-  .web1{
+ .web1{
     object-fit: cover;
 
   }
